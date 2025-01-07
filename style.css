@@ -1,0 +1,22 @@
+@font-face {
+  font-family: robotoMono;
+  src: url(robotomono.ttf);
+}
+
+.rcorners {
+  border-radius: 25px;
+  border: 2px solid #736b5e;
+  padding: 20px;
+}
+
+body {
+  text-align: center;
+  Font-family: robotoMono;
+  background-color: #181a1b;
+  border-color: #736b5e;
+  color: #e8e6e3;
+}
+
+a {
+  color: #3381ff;
+}
